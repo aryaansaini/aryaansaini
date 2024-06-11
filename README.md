@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aryaansaini
+- 👋 Hi, I’m Aryan Saini 
 - 👀 I’m interested in python 
 - 🌱 I’m currently learning java
 - 
