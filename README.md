@@ -86,7 +86,7 @@ DBMS • OOP • Operating Systems • Software Engineering • Computer Network
 ## 📫 Connect With Me
 
 📧 Email: [aryansaini2492004@gmail.com](mailto:aryansaini2492004@gmail.com)
-💼 LinkedIn: linkedin.com/in/aryansaini
+💼 LinkedIn: linkedin.com/in/aryaansaini
 🐙 GitHub: github.com/aryaansaini
 
 ⭐ "I don't just learn technologies — I build products with them."
