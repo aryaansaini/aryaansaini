@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aryan Saini
 
-### Full Stack Developer • Python & Django • AI/ML & GenAI • Backend Systems
+### Full Stack Developer • Python & Django • Google ADK & AI Agents • GenAI • Backend Systems
 
 🎓 B.Tech Computer Science Engineering Graduate (2026)
 💻 Passionate about building scalable web applications and AI-powered solutions
@@ -86,7 +86,9 @@ DBMS • OOP • Operating Systems • Software Engineering • Computer Network
 ## 📫 Connect With Me
 
 📧 Email: [aryansaini2492004@gmail.com](mailto:aryansaini2492004@gmail.com)
+
 💼 LinkedIn: linkedin.com/in/aryaansaini
-🐙 GitHub: github.com/aryaansaini
+
+  🐙 GitHub: github.com/aryaansaini
 
 ⭐ "I don't just learn technologies — I build products with them."
