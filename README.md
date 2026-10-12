@@ -1,94 +1,41 @@
-# 👋 Hi, I'm Aryan Saini
+# Hi 👋, I'm Aryan Saini
+### A passionate Python & Django developer
 
-### Full Stack Developer • Python & Django • Google ADK & AI Agents • GenAI • Backend Systems
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=700&lines=Python+Developer+%F0%9F%90%8D;Django+%26+DRF+%7C+REST+APIs;Gen+AI+%26+Multi-Agent+Systems" alt="Typing SVG" />
 
-🎓 B.Tech Computer Science Engineering Graduate (2026)
-💻 Passionate about building scalable web applications and AI-powered solutions
-🚀 Currently exploring Generative AI, Multi-Agent Systems, Cloud Technologies, and Backend Engineering
+---
 
-## 🔭 What I'm Working On
+- 🔭 I’m currently working on **AI-powered multi-agent systems with Gemini & MCP**
+- 🚀 I have built **3+ full projects** (Django, DRF, MySQL, OpenCV, Gemini API)
+- 💬 Ask me about **Python, Django, DRF, REST APIs and Gen AI**
+- 🎓 B.Tech CSE (2026)
+- ⚡ Motto: **"I don't just learn technologies — I build products with them."**
 
-* Full-Stack Development with Django & REST APIs
-* AI-Powered Applications using Google Gemini API
-* Computer Vision Projects with OpenCV
-* Oracle Database Administration & Cloud Technologies
-* Machine Learning and Deep Learning Projects
+---
 
-## 🛠️ Technical Skills
+### Connect with me:
 
-### Languages
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/aryaansaini)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aryansaini2492004@gmail.com)
 
-Python • JavaScript • SQL • Java • HTML5 • CSS3
+---
 
-### Frameworks & Libraries
+### Languages and Tools:
 
-Django • Django REST Framework • React (Learning) • OpenCV
+[![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org) [![django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg)](https://www.djangoproject.com/) [![flask](https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg)](https://flask.palletsprojects.com/) [![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/) [![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/) [![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactjs.org/) [![mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/) [![sqlite](https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg)](https://www.sqlite.org/) [![oracle](https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg)](https://www.oracle.com/database/) [![opencv](https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg)](https://opencv.org/) [![git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)](https://git-scm.com/) [![github](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)](https://github.com/) [![postman](https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg)](https://postman.com) [![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/) [![gcp](https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg)](https://cloud.google.com/)
 
-### AI / GenAI
+---
 
-Google Gemini API • Multi-Agent Systems • AI Agent Orchestration • Prompt Engineering • LLM Integration • Basic Machine Learning
+### My Goals:
 
-### Databases
+- 🌱 I’m currently learning **React, GCP and advanced Agentic AI**
+- ⚙️ I aim to contribute to **Open Source Projects**
+- 📈 My goal is to enhance my skills in **Backend Engineering** and **Gen AI**
 
-Oracle Database • MySQL • SQLite
+### Statistics:
 
-### Backend Development
+[![aryaansaini](https://github-readme-stats.vercel.app/api/top-langs?username=aryaansaini&show_icons=true&locale=en&layout=compact)](https://github.com/aryaansaini)
 
-REST APIs • Authentication • CRUD Operations • JSON Handling • Server-Side Logic • Form Processing
+[![aryaansaini](https://github-readme-stats.vercel.app/api?username=aryaansaini&show_icons=true&locale=en)](https://github.com/aryaansaini)
 
-### Tools & Platforms
-
-Git • GitHub • Postman • VS Code • Linux • Google Colab • GCP (Learning)
-
-### Computer Science Fundamentals
-
-DBMS • OOP • Operating Systems • Software Engineering • Computer Networks • SDLC
-
-## 💼 Experience
-
-### HCLTech Intern | CTO & Ecosystem – Google COE
-
-* Worked on Oracle Database Administration in Linux environments.
-* Built AI Agent workflows and explored Multi-Agent Architectures.
-* Gained hands-on experience with Generative AI, LLMs, and Prompt Engineering.
-* Learned Google Cloud Platform (GCP) services and cloud concepts.
-* Worked on enterprise-level AI and database solutions.
-
-## 🚀 Featured Projects
-
-### AI-Powered Recruitment Assistant
-
-* Multi-Agent AI System using Google Gemini API.
-* Automated Resume Screening, Job Matching, Candidate Ranking, and Interview Scheduling.
-* Integrated MCP Servers and enterprise-grade workflow automation.
-
-### Face Recognition Attendance System
-
-* Real-time attendance tracking using OpenCV and Django.
-* Built complete backend, authentication system, database schema, and dashboard.
-* Automated attendance management with face recognition technology.
-
-### Cat vs Dog Classifier
-
-* Deep Learning project using CNN and Transfer Learning.
-* Image classification with high accuracy using TensorFlow/Keras.
-
-### Placement Prediction System
-
-* Machine Learning project for predicting placement probability using student data.
-
-## 📈 GitHub Stats
-
-* Building real-world AI & Web Development Projects
-* Open Source Learner
-* Continuous Learning & Problem Solving
-
-## 📫 Connect With Me
-
-📧 Email: [aryansaini2492004@gmail.com](mailto:aryansaini2492004@gmail.com)
-
-💼 LinkedIn: linkedin.com/in/aryaansaini
-
-  🐙 GitHub: github.com/aryaansaini
-
-⭐ "I don't just learn technologies — I build products with them."
+[![aryaansaini](https://github-readme-streak-stats.herokuapp.com/?user=aryaansaini&)](https://github.com/aryaansaini)
