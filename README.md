@@ -1,32 +1,10 @@
----
-
-<div align="center">
-
-<p>
-  <a href="https://linkedin.com/in/aryaansaini">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:aryaansaini2492004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://instagram.com/aryaan.saini">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="aryaansaini#0029">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</p>
-
-</div>
-
----
-
-### 💫 About Me
-- 🔭 I’m currently working on AI-powered multi-agent systems with Gemini & MCP
-- 🚀 I have built **3+ full projects** (Django, DRF, MySQL, OpenCV, Gemini API)
-- 💬 Ask me about **Python, Django, DRF, REST APIs, Agentic AI and Gen AI**
-- 🎓 B.Tech CSE (2026)
-- ⚡ Motto: **"I don't just learn technologies — I build products with them."**
+## 💫 About Me
+- 🎓 **B.Tech CSE | 2026**
+- 🤖 Building **AI-Powered Multi-Agent Systems** with Gemini & MCP
+- 🚀 Built **3+ Projects** using Django, DRF, MySQL, OpenCV & Gemini API
+- 🧠 Exploring **Agentic AI, LLMs & Generative AI**
+- 💬 Ask me about **Python, Django, REST APIs & AI Agents**
+- ⚡ *"I don't just learn technologies — I build products with them."*
 
 ---
 
@@ -62,7 +40,28 @@
 
 
 ---
+### 🤝 Let's Connect
 
+<div align="center">
+
+<p>
+  <a href="https://linkedin.com/in/aryaansaini">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:aryaansaini2492004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://instagram.com/aryaan.saini">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://discord.com/users/1134350842611388446">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
+
+</div>
+
+---
 ### 📊 GitHub Stats
 
 <div align="center">
