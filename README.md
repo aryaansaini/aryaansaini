@@ -1,10 +1,9 @@
-
 ### 💫 About Me
-- 🔭 I’m currently working on AI-powered multi-agent systems with Gemini & MCP**￼
-- 🚀 I have built **3+ full projects** (Django, DRF, MySQL, OpenCV, Gemini API)￼
-- 💬 Ask me about **Python, Django, DRF, REST APIs, Agentic AI and Gen AI**￼
-- 🎓 B.Tech CSE (2026)￼
-- ⚡ Motto: **"I don't just learn technologies — I build products with them."   
+- 🔭 I’m currently working on AI-powered multi-agent systems with Gemini & MCP
+- 🚀 I have built **3+ full projects** (Django, DRF, MySQL, OpenCV, Gemini API)
+- 💬 Ask me about **Python, Django, DRF, REST APIs, Agentic AI and Gen AI**
+- 🎓 B.Tech CSE (2026)
+- ⚡ Motto: **"I don't just learn technologies — I build products with them."**
 
 ---
 
@@ -39,6 +38,7 @@
 [![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-7B61FF?style=for-the-badge)](https://cloud.google.com/discover/what-is-prompt-engineering)
 
 ---
+
 <div align="center">
 
 <p>
@@ -57,7 +57,9 @@
 </p>
 
 </div>
+
 ---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -68,7 +70,5 @@
 <img height="150" src="https://streak-stats.demolab.com/?user=aryaansaini&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aryaansaini&style=flat&color=blue)
-
-</div>
 
 </div>
