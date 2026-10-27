@@ -1,27 +1,3 @@
-<div align="center">
-
-## Hi, I'm Aryan Saini
-
-### Python Developer | AI Engineer | Django & REST APIs | GenAI & Agentic AI
-
-<p>
-  <a href="https://linkedin.com/in/aryaansaini">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/aryaansaini">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:aryaansaini2492004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://instagram.com/aryaan.saini">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
-</div>
-
----
 
 ### 💫 About Me
 - 🔭 I’m currently working on AI-powered multi-agent systems with Gemini & MCP**￼
@@ -31,9 +7,6 @@
 - ⚡ Motto: **"I don't just learn technologies — I build products with them."   
 
 ---
-
-### 🛠️ Tech Stack
-
 
 ## 💻 Tech Stack
 
@@ -66,7 +39,25 @@
 [![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-7B61FF?style=for-the-badge)](https://cloud.google.com/discover/what-is-prompt-engineering)
 
 ---
+<div align="center">
 
+<p>
+  <a href="https://linkedin.com/in/aryaansaini">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:aryaansaini2492004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://instagram.com/aryaan.saini">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="aryaansaini#0029">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
+
+</div>
+---
 ### 📊 GitHub Stats
 
 <div align="center">
