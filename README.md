@@ -1,17 +1,11 @@
 ## 💫 About Me
 
 👋 Hi, I'm Aryan Saini — Python Developer & Agentic AI Builder.
-
 🔭 I'm currently working on Python backend development and AI-powered applications.
-
 🤝 I enjoy building real-world projects and exploring open-source technologies.
-
 🤖 I'm exploring Agentic AI, Multi-Agent Systems, MCP, and Generative AI.
-
 🌱 I'm continuously learning Django, REST APIs, SQL, and modern AI technologies.
-
 💬 Ask me about Python, Django, DRF, REST APIs, and Agentic AI.
-
 ⚡ Fun fact: I love turning ideas into working projects!
 
 ---
