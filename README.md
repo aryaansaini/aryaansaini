@@ -67,9 +67,6 @@
 
 ## 📊 GitHub Stats
 
-
-## 📊 GitHub Stats
-
 <div align="center">
 
 <img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryaansaini&theme=tokyonight" alt="GitHub Stats" />
@@ -85,7 +82,3 @@
 </p>
 
 
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=aryaansaini&style=flat&color=blue" alt="Profile Views" />
-</p>
