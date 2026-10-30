@@ -67,15 +67,15 @@
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aryaansaini&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryaansaini&theme=tokyonight" alt="GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaansaini&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<img height="170" src="https://streak-stats.demolab.com/?user=aryaansaini&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryaansaini&theme=tokyonight" alt="Top Languages" />
 
 </div>
+
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=aryaansaini&style=flat&color=blue" alt="Profile Views" />
