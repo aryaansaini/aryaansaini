@@ -63,15 +63,20 @@
 </div>
 
 ---
-### 📊 GitHub Stats
+
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=aryaansaini&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaansaini&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aryaansaini&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<img height="150" src="https://streak-stats.demolab.com/?user=aryaansaini&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaansaini&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=aryaansaini&style=flat&color=blue)
+<img height="170" src="https://streak-stats.demolab.com/?user=aryaansaini&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=aryaansaini&style=flat&color=blue" alt="Profile Views" />
+</p>
