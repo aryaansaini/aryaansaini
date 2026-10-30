@@ -11,12 +11,14 @@
 
 ## 💻 Tech Stack
 
+<div align="center">
+
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![Django REST Framework](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
+[![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
 [![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
-[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com/)
+[![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com/)
 [![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://google.github.io/adk-docs/)
 [![AI Agents](https://img.shields.io/badge/AI%20Agents-6A5ACD?style=for-the-badge)](https://cloud.google.com/discover/what-are-ai-agents)
 [![MCP](https://img.shields.io/badge/MCP-333333?style=for-the-badge)](https://modelcontextprotocol.io/)
@@ -39,46 +41,36 @@
 [![LLMs](https://img.shields.io/badge/LLMs-6741D9?style=for-the-badge)](https://cloud.google.com/ai)
 [![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-7B61FF?style=for-the-badge)](https://cloud.google.com/discover/what-is-prompt-engineering)
 
-
----
-### 🤝 Let's Connect
-
-<div align="center">
-
-<p>
-  <a href="https://linkedin.com/in/aryaansaini">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:aryaansaini2492004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://instagram.com/aryaan.saini">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://discord.com/users/1134350842611388446">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</p>
-
 </div>
 
 ---
 
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryaansaini)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryaansaini2492004@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aryaan.saini)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1134350842611388446)
+
+</div>
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryaansaini&theme=tokyonight" alt="GitHub Stats" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryaansaini&theme=tokyonight" alt="GitHub Stats" />
 
-<img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryaansaini&theme=tokyonight" alt="Top Languages" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryaansaini&theme=tokyonight" alt="Top Languages" />
 
-<img height="140" src="https://streak-stats.demolab.com/?user=aryaansaini&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="32%" src="https://streak-stats.demolab.com/?user=aryaansaini&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=aryaansaini&style=flat&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=aryaansaini&style=flat&color=blue" alt="Profile Views" />
 </p>
-
 
