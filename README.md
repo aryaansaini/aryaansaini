@@ -1,4 +1,4 @@
-## 💫 About Me
+ ## 💫 About Me
 - 🎓 **B.Tech CSE | 2026**
 - 🤖 Building **AI-Powered Multi-Agent Systems** with Gemini & MCP
 - 🚀 Built **3+ Projects** using Django, DRF, MySQL, OpenCV & Gemini API
